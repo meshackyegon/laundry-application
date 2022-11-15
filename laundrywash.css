@@ -1,0 +1,35 @@
+.body{
+    color: blue;
+    background-image: url("./images/laundry3.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header {
+    width: 45%;
+    margin: 50px auto 0px;
+    color: white;
+    background: #5F9EA0;
+    text-align: center;
+    border: 1px solid #B0C4DE;
+    border-bottom: none;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+  }
+  .paragraph{
+    color: black;
+    margin-left: 50px;
+    font-weight: bold;
+
+  }
+  form, .container {
+    width: 45%;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #B0C4DE;
+    background: white;
+    border-radius: 0px 0px 10px 10px;
+    background-image: url("./images/laundry2.jfif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
